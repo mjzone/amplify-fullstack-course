@@ -1,0 +1,10 @@
+{
+  "resourceName": "portfolioDB",
+  "tableName": "portfolio",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
